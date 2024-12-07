@@ -1,16 +1,17 @@
+[](https://avatars.githubusercontent.com/u/102509668?s=400&u=13062bf85902a6d021265de85c54249b1c5fc9ce&v=4)
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Nothing
 
 #### Email
-sli[at]cumt.edu.cn
+
+lvzhe007@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+**TUST**
+
+**Soochow University**
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
+Deep Learning, NLP-CSC
